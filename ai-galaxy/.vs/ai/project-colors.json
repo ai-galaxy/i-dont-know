@@ -5,7 +5,17 @@
       "ProjectGuid": "af6fa47a-d646-4750-9cdf-296262984187",
       "DisplayName": "ai",
       "ColorIndex": 0
+    },
+    "b65e54f1-c075-42b7-929e-7e3991482bf8": {
+      "ProjectGuid": "b65e54f1-c075-42b7-929e-7e3991482bf8",
+      "DisplayName": "galaxy",
+      "ColorIndex": 1
+    },
+    "00e3e77d-f69b-4d82-9360-2e11aaac5231": {
+      "ProjectGuid": "00e3e77d-f69b-4d82-9360-2e11aaac5231",
+      "DisplayName": "ecchi",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
