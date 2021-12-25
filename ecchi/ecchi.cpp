@@ -15,8 +15,10 @@ boolean	1 byte	Stores true or false values
 char	1 byte	Stores a single character/letter/number, or ASCII values*/
 int main()
 {
+    cout << "name enter \n:";
+    string x;
     cin >> x;
-    cout << "you name is" x;
+    cout << "you name is" << x;
     cout << "you name is ******.\n"; //print command
     cout << "my name is cute-galaxy.\n"; // print command
     cout << "wait...\n"; // print command
